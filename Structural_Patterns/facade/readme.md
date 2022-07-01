@@ -1,6 +1,6 @@
 
 
-# Decarator 
+# Facade 
 
 >Structural Patterns
 
