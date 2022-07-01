@@ -5,7 +5,7 @@
 >Structural Patterns
 
 ```
-Nesneleri agaç yapıları halinde oluşturmamıza ve ardından bu yapıları tek tek nesnelermiş gibi erişmemisze olanak tanır.
+Nesneleri agaç yapıları halinde oluşturmamıza ve ardından bu yapıları tek tek nesnelermiş gibi erişmemize olanak tanır.
 
 ```
 
