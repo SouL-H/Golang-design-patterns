@@ -13,3 +13,15 @@
 
 2. Creational Patterns
 * Builder
+* Factory
+* Prototype
+* Singleton
+  
+3. Structural Patterns
+*  Adapter
+*  Bridge
+*  Composite
+*  Decarator
+*  Facade
+*  Flyweight
+*  Proxy
